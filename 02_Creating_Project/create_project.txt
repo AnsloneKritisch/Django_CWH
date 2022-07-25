@@ -1,5 +1,6 @@
 go to the directory where you want to have your Project 
 open CMD
+
 >> django-admin startproject project_name
 
 Project will be created
